@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": [],
+        "ACTIVITY_TEXT": "Doğum Günün Kutlu Olsun Nice Mutlu Senelere Alinaa 🖤",
+        "GUILD_ID": "1002184162138148924",
+        "VOICE_CHANNEL": "1029109989211639859",
+        "MIN_STAFF_ROLE": ""
+    },
+    "FILES": {
+        "WELCOME": "default_files/<welcome-voice>.mp3",
+        "STAFF": "default_files/<staff-voice>.mp3"
+    },
+    "TOKEN": "MTAyOTEwNzM1NzE1NTg2ODgyMg.GT_vjt.zrHexlOOFDkwHd7JyUj4U02lcCD7X1WUN5rffw"
+}
